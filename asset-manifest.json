@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.30b021ab.css",
-    "main.js": "/static/js/main.549b14ef.js",
-    "static/js/787.5313dd4a.chunk.js": "/static/js/787.5313dd4a.chunk.js",
-    "index.html": "/index.html",
-    "main.30b021ab.css.map": "/static/css/main.30b021ab.css.map",
-    "main.549b14ef.js.map": "/static/js/main.549b14ef.js.map",
-    "787.5313dd4a.chunk.js.map": "/static/js/787.5313dd4a.chunk.js.map"
+    "main.css": "/freecodecamp-click-counter/static/css/main.30b021ab.css",
+    "main.js": "/freecodecamp-click-counter/static/js/main.574d91fc.js",
+    "static/js/787.5313dd4a.chunk.js": "/freecodecamp-click-counter/static/js/787.5313dd4a.chunk.js",
+    "index.html": "/freecodecamp-click-counter/index.html",
+    "main.30b021ab.css.map": "/freecodecamp-click-counter/static/css/main.30b021ab.css.map",
+    "main.574d91fc.js.map": "/freecodecamp-click-counter/static/js/main.574d91fc.js.map",
+    "787.5313dd4a.chunk.js.map": "/freecodecamp-click-counter/static/js/787.5313dd4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30b021ab.css",
-    "static/js/main.549b14ef.js"
+    "static/js/main.574d91fc.js"
   ]
 }
