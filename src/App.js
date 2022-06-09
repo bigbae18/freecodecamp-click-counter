@@ -1,25 +1,15 @@
-import logo from './logo.svg';
+import ClickCounter from './components/ClickCounter';
 import './App.css';
 
-function App() {
-  return (
+const App = () => (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <div className="factoria-logo-container">
+          <img className="factoria-logo" src="https://factoriaf5.org/wp-content/uploads/2021/07/logo-x2.png" alt="Logo Factoría F5" />
+        </div>
+        <div className="main-container">
+          <ClickCounter />
+        </div>
     </div>
   );
-}
 
 export default App;
